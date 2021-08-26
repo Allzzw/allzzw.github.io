@@ -8,7 +8,7 @@ keyword: "分子对接, 同源建模, 分子动力学, 动漫, 游戏"
 url: "https://allzzw.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Allzzw/allzzw.github.io" # you code repository
-home_repo: "http://fujishiro.cn"
+home_repo: "https://allzzw.github.io/"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -21,7 +21,7 @@ sidebar-avatar: /img/cover.png      # use absolute URL, seeing it's used in both
 RSS: false
 weibo_username:     
 #zhihu_username:     
-github_username:    FujishiroOtone
+github_username:    
 #facebook_username: 
 jianshu_username:  
 twitter_username:   
