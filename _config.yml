@@ -1,7 +1,7 @@
 # Site settings
 title: Allzzw
 SEOTitle: Allzzw's Blog
-header-img: img/cover.png
+header-img: img/2.jpg
 email: all_zzw@163.com
 description: "年轻人！愿你照耀中国"
 keyword: "分子对接, 同源建模, 分子动力学, 动漫, 游戏"
@@ -13,7 +13,7 @@ home_repo: "http://fujishiro.cn"
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "What does an education get you?"
-sidebar-avatar: /img/about-Otone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/cover.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
