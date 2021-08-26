@@ -1,7 +1,7 @@
 # Site settings
 title: Allzzw
 SEOTitle: Allzzw's Blog
-header-img: img/2.jpg
+header-img: img/2.png
 email: all_zzw@163.com
 description: "年轻人！愿你照耀中国"
 keyword: "分子对接, 同源建模, 分子动力学, 动漫, 游戏"
@@ -65,9 +65,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 1628acd4584b56ed9b40                            #生成的clientID
   clientSecret: 16b70af1ac573e1609bb84a604b4504a18cf7bcd    #生成的clientSecret
-  repo: FujishiroOtone.github.io    #仓库名称
-  owner: FujishiroOtone    #github用户名
-  admin: FujishiroOtone
+  repo: allzzw.github.io/    #仓库名称
+  owner: Allzzw    #github用户名
+  admin: Allzzw
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -79,7 +79,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-124497414-1'            # Format: UA-xxxxxx-xx
-ga_domain: blog.fujishiro.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -101,7 +101,7 @@ service-worker: true
 links: [
     {
         title: "个人のGitHub",
-        href: "https://github.com/FujishiroOtone	"
+        href: "https://allzzw.github.io/	"
     },{
         title: "简书·Otone",
         href: "https://www.jianshu.com/u/3bf62aac1afc"
